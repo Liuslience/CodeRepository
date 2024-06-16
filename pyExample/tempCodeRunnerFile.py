@@ -1,2 +1,1 @@
-
-print(seen)
+nums = [0, 0]
